@@ -13,4 +13,7 @@ Empresa especializada no desenvolvimento de aplicações voltadas para o setor a
 Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do projeto Car Assist, incluindo a criação de demandas, acompanhamento de atividades e evolução das funcionalidades do sistema. A proposta é manter um fluxo de trabalho estruturado, facilitando a colaboração e garantindo a qualidade no desenvolvimento da solução.
 
 ## Protótipo
-[Figma](https://www.figma.com/design/246vsigciubqt3fDkFxRHR/car-assist?node-id=2-2&p=f&t=AOmVBk8KCQ69CeVm-0)
+- [Figma](https://www.figma.com/design/246vsigciubqt3fDkFxRHR/car-assist?node-id=2-2&p=f&t=AOmVBk8KCQ69CeVm-0)
+
+## Repósitorio
+- [Principal](https://github.com/Bre01cc/Car-Assist)
