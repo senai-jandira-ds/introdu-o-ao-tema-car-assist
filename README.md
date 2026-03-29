@@ -17,3 +17,9 @@ Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do p
 
 ## Repósitorio
 - [Principal](https://github.com/Bre01cc/Car-Assist)
+
+## Authors
+- [@Breno Reis](https://github.com/Bre01cc)
+- [@Guilherme Moreira](https://github.com/Guilherme1108)
+- [@Gustavo Mathias](https://github.com/Gustaxsx)
+- [@Nikolas](https://github.com/nikolasfernnds)
