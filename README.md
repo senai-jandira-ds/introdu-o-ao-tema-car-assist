@@ -22,8 +22,10 @@ Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do p
 ├── 📄 wireframe (Excalidraw).md
 ├── 📄 TAP.pdf (formato WIKI)
 └── 📂 LER/
-    ├── 📄 RF (Versão).docx
-    └── 📄 RNF (Versão).docx
+|   ├── 📄 RF (Versão).docx
+|   └── 📄 RNF (Versão).docx
+└── 📂 Relatório/
+     └──📄 Relatório_de_desempenho.pdf
 ```
 ## Protótipo
 - [Figma](https://www.figma.com/design/246vsigciubqt3fDkFxRHR/car-assist?node-id=2-2&p=f&t=AOmVBk8KCQ69CeVm-0)
