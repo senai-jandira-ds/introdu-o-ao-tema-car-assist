@@ -29,7 +29,8 @@ Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do p
 ```
 ## Protótipo
 - [Figma](https://www.figma.com/design/246vsigciubqt3fDkFxRHR/car-assist?node-id=2-2&p=f&t=AOmVBk8KCQ69CeVm-0)
-
+## Petch
+- [Vídeo do fluxo de telas](https://www.youtube.com/watch?v=cpzWXmYRhAc)
 ## Repósitorio
 - [Principal](https://github.com/Bre01cc/Car-Assist)
 
