@@ -8,9 +8,19 @@
 
 Empresa especializada no desenvolvimento de aplicações voltadas para o setor automotivo, com foco na gestão, monitoramento e manutenção de veículos.
 
+
+
 ## Sobre
 
 Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do projeto Car Assist, incluindo a criação de demandas, acompanhamento de atividades e evolução das funcionalidades do sistema. A proposta é manter um fluxo de trabalho estruturado, facilitando a colaboração e garantindo a qualidade no desenvolvimento da solução.
+
+## Repósitorios
+- [Principal](https://github.com/Bre01cc/Car-Assist)
+- [Back-End](https://github.com/Bre01cc/Car-Assist-backend)
+- [Front-End](https://github.com/Guilherme1108/Car-Assist-Frontend)
+- [Mobile](https://github.com/Gustaxsx/Car-Assist-Mobile)
+- [Banco de Dados](https://github.com/Bre01cc/Car-Assist-Banco-Dados)
+  
 ## Documentação
 - Apresentação de proposta do tema;
 - TAP(termo de abertura do projeto);
@@ -28,12 +38,19 @@ Este repositório tem como objetivo organizar e gerenciar o desenvolvimento do p
 └── 📂 Relatório/
      └──📄 Relatório_de_desempenho.pdf
 ```
-## Protótipo
-- [Figma](https://www.figma.com/design/246vsigciubqt3fDkFxRHR/car-assist?node-id=2-2&p=f&t=AOmVBk8KCQ69CeVm-0)
-## Pitch
-- [Vídeo do fluxo de telas](https://www.youtube.com/watch?v=cpzWXmYRhAc)
-## Repósitorio
+## Repósitorios
 - [Principal](https://github.com/Bre01cc/Car-Assist)
+- [Back-End](https://github.com/Bre01cc/Car-Assist-backend)
+- [Front-End](https://github.com/Guilherme1108/Car-Assist-Frontend)
+- [Mobile](https://github.com/Gustaxsx/Car-Assist-Mobile)
+- [Banco de Dados]()
+---
+## Front-End
+### Protótipo
+- [Figma](https://www.figma.com/design/246vsigciubqt3fDkFxRHR/car-assist?node-id=2-2&p=f&t=AOmVBk8KCQ69CeVm-0)
+### Pitch
+- [Vídeo do fluxo de telas](https://www.youtube.com/watch?v=cpzWXmYRhAc)
+---
 
 ## Authors
 - [@Breno Reis](https://github.com/Bre01cc)
